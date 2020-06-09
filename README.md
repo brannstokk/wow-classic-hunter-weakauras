@@ -23,3 +23,16 @@ what is relevant to me at the moment.  Modify to taste.
 
 [src/hunter-raid-reminders.txt](src/hunter-raid-reminders.txt)
 
+## Hunter Pet Reminders
+
+![Preview](/img/hunter-pet-reminders.png?raw=true)
+
+Reminds you with a glowing icon if:
+
+- Pet is missing Juju Power (strength) buff
+- Pet is missing Juju Might (attack power) buff
+- Pet has no stamina buff (Fortitude or scroll)
+- Pet is missing Agility IV scroll
+- Pet is set to Aggressive
+- Pet needs to be fed
+

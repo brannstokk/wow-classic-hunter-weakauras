@@ -1,4 +1,4 @@
-# Classic Hunter Weak Auras
+# World of Warcraft Classic Hunter Weak Auras
 
 ## Hunter Raid Reminders
 

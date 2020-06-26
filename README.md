@@ -36,3 +36,4 @@ Reminds you with a glowing icon if:
 - Pet is set to Aggressive
 - Pet needs to be fed
 
+[src/hunter-pet-reminders.txt](src/hunter-pet-reminders.txt)

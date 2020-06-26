@@ -12,6 +12,7 @@ Reminds you with a glowing icon if:
 - Rumsey Rum Black Label/Gordok Green Grog buff is missing
 - Thorium Shells/Arrows, Doomshot, or Miniature Cannon Balls are not equipped
 - Lok'delar is equipped but missing a Dense Weightstone
+- Ashkandi is equipped but missing a Sharpening Stone
 - Greater Fire Protection Potion buff is active
 
 The goal is to see none of the icons, except perhaps the reminder that

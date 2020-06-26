@@ -18,8 +18,7 @@ Reminds you with a glowing icon if:
 The goal is to see none of the icons, except perhaps the reminder that
 you have a GFPP active.
 
-TODO: More weapon and weapon enhancement reminders (e.g. Ashkandi
-equipped, but missing Elemental Sharpening Stone), but the above are
+TODO: More weapon and weapon enhancement reminders, but the above are
 what is relevant to me at the moment.  Modify to taste.
 
 [src/hunter-raid-reminders.txt](src/hunter-raid-reminders.txt)

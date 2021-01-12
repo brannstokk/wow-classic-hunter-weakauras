@@ -49,6 +49,8 @@ Show active timers for DPS burst trinkets and procs.
 
 TODO: Add Devilsaur Eye
 
+[src/hunter-burst-notifiers.txt](src/hunter-burst-notifiers.txt)
+
 ## Hunter Cooldown Pulse
 
 Pulse a large icon on the screen when abilities come off cooldown.
@@ -59,3 +61,4 @@ Pulse a large icon on the screen when abilities come off cooldown.
 - Volley
 - Feign Death
 
+[src/hunter-cooldown-pulse.txt](src/hunter-cooldown-pulse.txt)

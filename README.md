@@ -40,8 +40,6 @@ Reminds you with a glowing icon if:
 
 ## Hunter Burst Notifiers
 
-![Preview](/img/hunter-burst-notifiers.png?raw=true)
-
 Show active timers for DPS burst trinkets and procs.
 
 - Rapid Fire

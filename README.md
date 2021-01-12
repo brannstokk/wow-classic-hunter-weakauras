@@ -49,3 +49,13 @@ Show active timers for DPS burst trinkets and procs.
 
 TODO: Add Devilsaur Eye
 
+## Hunter Cooldown Pulse
+
+Pulse a large icon on the screen when abilities come off cooldown.
+
+- Aimed Shot
+- Multi-Shot
+- Scatter Shot
+- Volley
+- Feign Death
+

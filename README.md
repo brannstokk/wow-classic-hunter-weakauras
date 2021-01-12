@@ -37,3 +37,17 @@ Reminds you with a glowing icon if:
 - Pet needs to be fed
 
 [src/hunter-pet-reminders.txt](src/hunter-pet-reminders.txt)
+
+## Hunter Burst Notifiers
+
+![Preview](/img/hunter-burst-notifiers.png?raw=true)
+
+Show active timers for DPS burst trinkets and procs.
+
+- Rapid Fire
+- Improved Aspect of the Hawk
+- Earthstrike
+- Zandalarian Hero Medallion
+
+TODO: Add Devilsaur Eye
+
